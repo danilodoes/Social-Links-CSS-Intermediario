@@ -16,5 +16,5 @@ Desafio proposto pelo Igor Oliveira, no curso Programador BR.
 ## Demo 📷
 
 <p align="center">
-  <img width="400" src="toReadme/sociallinks.gif">
+  <img width="300" src="toReadme/sociallinks.gif">
 </p>
